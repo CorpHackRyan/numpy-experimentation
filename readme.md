@@ -75,9 +75,17 @@ or dividing the observations in a sample in the same way.
 
 # Working with files in NumPy
 
+# Other data stuff
+Working in NumPy you use arrays, which the value is refernced by the index.
+In Pandas, you have 
+- Series: you can have labels on the index, and reference the label to retrieve the value.
+- DataFrame contains multiple columns, and every column is one series object.
+<img src="data-stuff.png">
 
-
-
+- Every series is homogeneous. 
+- DataFrames can have its own data type; every column will have its own label.
+- These are mutable. 
+- Dataframe is like a 2D array.
 
 
 
