@@ -73,15 +73,30 @@ In statistics and probability, quantiles are cut points dividing the range of
 a probability distribution into continuous intervals with equal probabilities, 
 or dividing the observations in a sample in the same way.
 
-
-BitSite - cyber security system
-credit score for cyber security, inspects firewalls, reports back on which areas
-are the strongest,
+# Working with files in NumPy
 
 
-Cambridge Motor Telematics
-worlds largest telematix - fully remote
-make the worlds roads safer, platform gather sensor data from millions of iOt devices 
-and pieces together with conceptual data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
