@@ -41,3 +41,28 @@ rows and m columns, the shape will be (n,m)
 
 This means that if there is 100 items in an array, and only one item is a string, then the entire array object 
 becomes a string. Again, NumPy arrays are homogeneous objects. Also, this is why its important to pre-process you data. 
+
+## Special functions
+- np.arange()
+- np.zeros()
+- np.ones()
+- np.eye()
+- np.empty()
+- np.copy()
+- np.reshape()
+
+## Operations
+
+Something worth noting: Array multiplication is not matrix multiplication:
+
+- Comparisons
+- Array-wise comparisons
+- Logical Operations
+- Transcedental functions (sin, log, exp)
+- Transposition (triu)
+  - transposition is a view
+- Linear algebra (.linalg implements basic linear algebra, such as linear systems, singular value decomposition)
+- You can sum rows and columns (sum)
+- Other reductions (.min, .max, .argmin, .argmax, .all, .any)
+- In Statistics: .mean, .median, .mode, .std (standard deviation)
+- 
