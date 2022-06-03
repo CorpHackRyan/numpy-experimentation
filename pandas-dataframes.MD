@@ -1,5 +1,5 @@
 ## Pandas overview - (6/3/22)
-( link to the jupyter lab of pandas dataframes to assist with these notes )
+[(Link to the jupyter lab of pandas dataframes to assist with these notes )](https://github.com/CorpHackRyan/jupyter-experimention/blob/main/UsingPandas.ipynb)
 
 ## Creating a DataFrame
 1. Using a two-dimensional list
